@@ -1,0 +1,8 @@
+nav {
+    a{text-decoration: none; font-size: 15px;font-family: sans-serif;padding: 12px 113px}
+    ul{padding: 14px}
+    li{list-style: none; display: inline;}
+    li a{background: #7a7ce2; color:#131212;}
+    li a:hover{background: #4da4ff; color:#020000;}
+    .navi{background: #222222; height: 50px}
+}
